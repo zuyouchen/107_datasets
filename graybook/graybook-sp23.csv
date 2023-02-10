@@ -2112,9 +2112,9 @@
 2110,"Zeiders, David","MANAGER, SOFTWARE DEVELOPMENT",,BA,0.0,0.0,5000.0,5000.0,LN,Center Innov in Teach Learn,641,Center Innov in Teach Learn
 2111,"Zeiders, David",PRINCIPAL SOFTWARE DEVELOPER,,BA,1.0,1.0,96474.66,99851.27,LN,Center Innov in Teach Learn,641,Center Innov in Teach Learn
 2112,"Zeiders, David",Employee Total for All Jobs,,,1.0,1.0,101474.66,104851.27,LN,Center Innov in Teach Learn,641,Center Innov in Teach Learn
-2113,"Rosu, Luisa Maria",ASST DIR STEM EVAL EDUC,,BA,0.0,0.0,0.0,0.0,LN,Center Innov in Teach Learn,N/A,N/A
-2114,"Rosu, Luisa Maria",RES ASSOC,,AA,1.0,1.0,71141.72,73987.39,LN,Center Innov in Teach Learn,N/A,N/A
-2115,"Rosu, Luisa Maria",Employee Total for All Jobs,,,1.0,1.0,71141.72,73987.39,LN,Center Innov in Teach Learn,N/A,N/A
+2113,"Rosu, Luisa Maria",ASST DIR STEM EVAL EDUC,,BA,0.0,0.0,0.0,0.0,LN,Center Innov in Teach Learn,711,I-STEM Education Initiative
+2114,"Rosu, Luisa Maria",RES ASSOC,,AA,1.0,1.0,71141.72,73987.39,LN,Center Innov in Teach Learn,711,I-STEM Education Initiative
+2115,"Rosu, Luisa Maria",Employee Total for All Jobs,,,1.0,1.0,71141.72,73987.39,LN,Center Innov in Teach Learn,711,I-STEM Education Initiative
 2116,"Hagerstrom, Joshua H",CLIN COUNS,,BA,1.0,1.0,70000.0,71750.0,NA,Chancellor,980,Faculty/Staff Assistance Svcs
 2117,"Kujawski, Marcy",EMPLOYEE ASST COUNS,,BA,1.0,1.0,71156.25,74002.5,NA,Chancellor,980,Faculty/Staff Assistance Svcs
 2118,"Mosley, Morris Anthony",EMPLOYEE ASSTC COUNS,,BA,1.0,1.0,76648.0,80097.16,NA,Chancellor,980,Faculty/Staff Assistance Svcs
@@ -12686,16 +12686,16 @@
 12684,"Stearns, Clint L",Employee Total for All Jobs,,,1.0,1.0,97778.8,102527.32,NB,Provost & VC Acad Affairs,329,SmartHealthyCommunity(Rokwire)
 12685,"Sullivan, William C","DIR, SMART CAMPUS INITIATIVE",,BA,0.0,0.0,48650.0,48650.0,NB,Provost & VC Acad Affairs,329,SmartHealthyCommunity(Rokwire)
 12686,"Sullivan, William C",Employee Total for All Jobs,,,1.0,1.0,184214.0,193703.0,NB,Provost & VC Acad Affairs,329,SmartHealthyCommunity(Rokwire)
-12687,"Burack, Matthew Robert",SR MGMT METHODS ANALYST,,BA,1.0,1.0,65076.0,68329.8,NB,Provost & VC Acad Affairs,N/A,N/A
-12688,"Edwards, Christine E",SR ASST DIR - STDNT FIN AID,,BA,1.0,1.0,69360.0,72828.0,NB,Provost & VC Acad Affairs,N/A,N/A
-12689,"Hamilton, Kimberly M","SR ASST DIR, STDNT EMPLOYMENT",,BA,1.0,1.0,75000.0,78750.0,NB,Provost & VC Acad Affairs,N/A,N/A
-12690,"Hertling, Leo J",SR ASSOC DIR,,BA,1.0,1.0,108070.0,108070.0,NB,Provost & VC Acad Affairs,N/A,N/A
-12691,"Mburu-Kereri, Gladys Nyagochi",SR MGMT METHODS ANLYS,,BA,1.0,1.0,61959.9,65057.9,NB,Provost & VC Acad Affairs,N/A,N/A
-12692,"Mehling, Glenn H",SR MGMT METHODS ANALYST,,BA,1.0,1.0,65076.0,68655.18,NB,Provost & VC Acad Affairs,N/A,N/A
-12693,"Roy, Bambie L",SR ASSOC DIR,,BA,1.0,1.0,111180.0,117016.95,NB,Provost & VC Acad Affairs,N/A,N/A
-12694,"Smith, Valeria A","SR ASST DIR, FISCAL OPS",,BA,1.0,1.0,75000.0,78937.5,NB,Provost & VC Acad Affairs,N/A,N/A
-12695,"Trame, Michelle Kay",DIR OF STDNT FIN AID,,BA,1.0,1.0,148777.2,155472.17,NB,Provost & VC Acad Affairs,N/A,N/A
-12696,"Walch, Cheri Dawn",SR MGMT METHODS ANALYST,,BA,1.0,1.0,65076.0,68655.18,NB,Provost & VC Acad Affairs,N/A,N/A
+12687,"Burack, Matthew Robert",SR MGMT METHODS ANALYST,,BA,1.0,1.0,65076.0,68329.8,NB,Provost & VC Acad Affairs,972,Student Financial Aid-Admin
+12688,"Edwards, Christine E",SR ASST DIR - STDNT FIN AID,,BA,1.0,1.0,69360.0,72828.0,NB,Provost & VC Acad Affairs,972,Student Financial Aid-Admin
+12689,"Hamilton, Kimberly M","SR ASST DIR, STDNT EMPLOYMENT",,BA,1.0,1.0,75000.0,78750.0,NB,Provost & VC Acad Affairs,972,Student Financial Aid-Admin
+12690,"Hertling, Leo J",SR ASSOC DIR,,BA,1.0,1.0,108070.0,108070.0,NB,Provost & VC Acad Affairs,972,Student Financial Aid-Admin
+12691,"Mburu-Kereri, Gladys Nyagochi",SR MGMT METHODS ANLYS,,BA,1.0,1.0,61959.9,65057.9,NB,Provost & VC Acad Affairs,972,Student Financial Aid-Admin
+12692,"Mehling, Glenn H",SR MGMT METHODS ANALYST,,BA,1.0,1.0,65076.0,68655.18,NB,Provost & VC Acad Affairs,972,Student Financial Aid-Admin
+12693,"Roy, Bambie L",SR ASSOC DIR,,BA,1.0,1.0,111180.0,117016.95,NB,Provost & VC Acad Affairs,972,Student Financial Aid-Admin
+12694,"Smith, Valeria A","SR ASST DIR, FISCAL OPS",,BA,1.0,1.0,75000.0,78937.5,NB,Provost & VC Acad Affairs,972,Student Financial Aid-Admin
+12695,"Trame, Michelle Kay",DIR OF STDNT FIN AID,,BA,1.0,1.0,148777.2,155472.17,NB,Provost & VC Acad Affairs,972,Student Financial Aid-Admin
+12696,"Walch, Cheri Dawn",SR MGMT METHODS ANALYST,,BA,1.0,1.0,65076.0,68655.18,NB,Provost & VC Acad Affairs,972,Student Financial Aid-Admin
 12697,"Borst, Andrew",DIR OF UGRAD ADM,,BA,1.0,1.0,136657.06,142806.63,NB,Provost & VC Acad Affairs,593,Undergraduate Admissions
 12698,"Bottimore, Ryan M",REGIONAL REP,,BA,1.0,1.0,60000.0,60000.0,NB,Provost & VC Acad Affairs,593,Undergraduate Admissions
 12699,"Carroll, Clinton Kirby",SR ADMISSIONS SPEC,,BA,1.0,1.0,45405.24,47448.48,NB,Provost & VC Acad Affairs,593,Undergraduate Admissions
@@ -14351,17 +14351,17 @@
 14349,"Williams, David A",Employee Total for All Jobs,,,1.0,1.0,189860.01,196505.11,LC,Veterinary Medicine,598,Vet Clinical Medicine
 14350,"Xu, Jiajie Jessica",CLIN ASST PROF,,AL,0.1,0.1,11220.0,11612.7,LC,Veterinary Medicine,598,Vet Clinical Medicine
 14351,"Xu, Jiajie Jessica",Employee Total for All Jobs,,,1.0,1.0,118220.0,123962.7,LC,Veterinary Medicine,598,Vet Clinical Medicine
-14352,"Elston, Cindy A",CLIN SKILLS TRNG SPEC,,BC,1.0,1.0,78000.0,81120.0,LC,Veterinary Medicine,N/A,N/A
-14353,"Leman, Clarissa R",STDNT & ACAD SUCCESS SPEC,,BA,1.0,1.0,62000.0,62000.0,LC,Veterinary Medicine,N/A,N/A
-14354,"Lowe, James F",DIR I-LRNG CTR,,BA,0.0,0.0,5000.0,5000.0,LC,Veterinary Medicine,N/A,N/A
-14355,"Lowe, James F",Employee Total for All Jobs,,,1.0,1.0,166642.25,174908.04,LC,Veterinary Medicine,N/A,N/A
-14356,"McNeil, Leslie Klis",TEACHING ASST PROF,,AL,1.0,1.0,91734.72,95404.11,LC,Veterinary Medicine,N/A,N/A
-14357,"McNeil, Leslie Klis",Employee Total for All Jobs,,,1.0,1.0,91734.72,95404.11,LC,Veterinary Medicine,N/A,N/A
-14358,"Sinn-Hanlon, Janet M",BIOMED VISUAL MEDIA SPEC,,BA,1.0,1.0,67600.0,69966.0,LC,Veterinary Medicine,N/A,N/A
-14359,"Stewart, Matthew C","DIR, CLIN SKILLS LRNG CTR",,BA,0.0,0.0,5000.0,5000.0,LC,Veterinary Medicine,N/A,N/A
-14360,"Stewart, Matthew C",Employee Total for All Jobs,,,1.0,1.0,189916.53,196388.53,LC,Veterinary Medicine,N/A,N/A
-14361,"Vaughn, Doreen N",CLIN SKILLS TRNG SPEC,,BC,1.0,1.0,70000.0,72800.0,LC,Veterinary Medicine,N/A,N/A
-14362,"Xiu, Ying",INSTRN DESIGNER,,BA,1.0,1.0,58344.0,60386.0,LC,Veterinary Medicine,N/A,N/A
+14352,"Elston, Cindy A",CLIN SKILLS TRNG SPEC,,BC,1.0,1.0,78000.0,81120.0,LC,Veterinary Medicine,249,Vet Med College-Wide Programs
+14353,"Leman, Clarissa R",STDNT & ACAD SUCCESS SPEC,,BA,1.0,1.0,62000.0,62000.0,LC,Veterinary Medicine,249,Vet Med College-Wide Programs
+14354,"Lowe, James F",DIR I-LRNG CTR,,BA,0.0,0.0,5000.0,5000.0,LC,Veterinary Medicine,249,Vet Med College-Wide Programs
+14355,"Lowe, James F",Employee Total for All Jobs,,,1.0,1.0,166642.25,174908.04,LC,Veterinary Medicine,249,Vet Med College-Wide Programs
+14356,"McNeil, Leslie Klis",TEACHING ASST PROF,,AL,1.0,1.0,91734.72,95404.11,LC,Veterinary Medicine,249,Vet Med College-Wide Programs
+14357,"McNeil, Leslie Klis",Employee Total for All Jobs,,,1.0,1.0,91734.72,95404.11,LC,Veterinary Medicine,249,Vet Med College-Wide Programs
+14358,"Sinn-Hanlon, Janet M",BIOMED VISUAL MEDIA SPEC,,BA,1.0,1.0,67600.0,69966.0,LC,Veterinary Medicine,249,Vet Med College-Wide Programs
+14359,"Stewart, Matthew C","DIR, CLIN SKILLS LRNG CTR",,BA,0.0,0.0,5000.0,5000.0,LC,Veterinary Medicine,249,Vet Med College-Wide Programs
+14360,"Stewart, Matthew C",Employee Total for All Jobs,,,1.0,1.0,189916.53,196388.53,LC,Veterinary Medicine,249,Vet Med College-Wide Programs
+14361,"Vaughn, Doreen N",CLIN SKILLS TRNG SPEC,,BC,1.0,1.0,70000.0,72800.0,LC,Veterinary Medicine,249,Vet Med College-Wide Programs
+14362,"Xiu, Ying",INSTRN DESIGNER,,BA,1.0,1.0,58344.0,60386.0,LC,Veterinary Medicine,249,Vet Med College-Wide Programs
 14363,"Beuoy, Christine A",DIR OF COMM AND MKTG,,BA,1.0,1.0,95009.0,98334.32,LC,Veterinary Medicine,444,Vet Medicine Administration
 14364,"Boyd, Brandon",DIR OF FACILTS,,BA,1.0,1.0,111277.0,117284.0,LC,Veterinary Medicine,444,Vet Medicine Administration
 14365,"Connolly, Sara L",ASST DEAN FOR STDNT SUCCESS,,BA,0.0,0.0,5000.0,5000.0,LC,Veterinary Medicine,444,Vet Medicine Administration
